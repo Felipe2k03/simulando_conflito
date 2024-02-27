@@ -1,1 +1,1 @@
-console.log("conflito");
+console.log("conflitox2");
